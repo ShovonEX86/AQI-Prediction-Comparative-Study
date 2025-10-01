@@ -43,7 +43,8 @@ Python | Scikit-learn | PyTorch | Pandas | NumPy
 
 [Read the complete research paper](report.pdf)
 
-## 👤 Authors
-Md. Rakibur Rahman Shovon | [shovonrakiburrahman3@gmail.com]
-Nishat Tasnim Luba | [nishat.tasnim.luba@g.bracu.ac.bd]
-Md. Mostofa All Zubayer | [mostofa.all.zubayer@g.bracu.ac.bd]
+## 👥 Authors
+
+**Md. Rakibur Rahman Shovon** | [shovonrakiburrahman3@gmail.com](mailto:shovonrakiburrahman3@gmail.com)  
+**Nishat Tasnim Luba** | [nishat.tasnim.luba@g.bracu.ac.bd](mailto:nishat.tasnim.luba@g.bracu.ac.bd)  
+**Md. Mostofa All Zubayer** | [mostofa.all.zubayer@g.bracu.ac.bd](mailto:mostofa.all.zubayer@g.bracu.ac.bd)
